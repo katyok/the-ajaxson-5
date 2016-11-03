@@ -1,0 +1,11 @@
+.container-fluid{
+    margin: 2% auto;
+    text-align: center;
+}
+form {
+    margin-bottom: 2%;
+}
+.input-group{
+    width:20em;
+    margin: auto;
+}
